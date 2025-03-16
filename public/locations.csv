@@ -1,7 +1,482 @@
-name,latitude,longitude
-Mumbai,19.0760,72.8777
-Kengeri,12.900160,77.466591
-JSSATEB,12.902979,77.505090
-RNSIT,12.901769,77.518414
-BGS GLENEAGLES GLOBAL HOSPITAL,12.903044,77.497511
-Yogananda Multispeciality Hospital,12.917984,77.559466
+Hospital Name,Address,Pin Code,PhONE NO,Fax,LATITUDE,LONGITUDE
+Ganga Speciality Hospital,"# 59, Vidhatha School Road, Bangalore",562106,080-27830250,080-27830250,12.7096503,77.7014511
+Arya Medical Centre,Dinkar Desai Road,581314,08388-230570,,14.6574629,74.3111707
+Sharan Hospital,"Javali Bazar, Mahalingpur, Near Yellamma Temple",587312,08350-270669,08350-271591,16.3925467,75.1065181
+Trishaladevi Super Speciality Eye Hospital,Krishna River Road,587314,08353-230004,08353-230004,16.4796975,75.1122614
+Chittaragi Hospital,Bramanand Asram Road Bus Stand Road Rabkavi,587314,08353-231699,08353-231699,16.4726768,75.1049581
+Dhanush Hospital,Mahaveer Road,587313,08354-226533,,16.182572,75.6980968
+Baragi Hospital Bagalkot,"Near Durga Vihar, Rajiva Gandhi Circle",587101,08354-225335,08354-225335,16.1833776,75.6983502
+Anugraha Nursing Home,"No 2, Vinayaka Circle, Palace Guttahalli Main Road",560003,080-23562042,080-23460935,12.9989898,77.5776748
+Ashok Hospital,"#65, N.H.C.S. Lay-Out, 3Rd Stage, 4Th Block, Basaveshwar Nagar, Kamalanagar Main Road",560079,080-23226699,080-23224052,12.9948905,77.5347984
+Ashraya Medinova Pvt Ltd,"Magadi Main Road, Sunkadakatte, Srigandadakaval",560091,080-23583783,080-23588424,12.988865,77.5078006
+Ashwini Hospital,"#129, Katruguppa, Bsk 3Rd Stg",560085,080-26723002,080-26723002,13.0313399,77.5055985
+Ashwini Hospital,"B.B.Road, Yelahanka",560064,080-28563877,080-42103882,13.0313399,77.5055985
+Dr.Agarwal Hospitals,"15, Eagle Street, Langford Townlangford Town",560025,080-22240736,080-22221941,12.9569005,77.60476102
+A.M. Hospital,"# 20/1, 2Nd Cross, Widia Layout, Vijayanagar",560040,080-23392851,080-23392851,12.9601022,77.5315556
+Bangalore Baptist Hospital,"Bellary Road, Hebbal, Opp University Of Agricultural Sciences (Near Hebbal Flyower)",560024,080-23330321,080-23337817,13.03451365,77.59103279
+Bharath Nursing Home,"# 1402, Near Vegitable Market, J.P Nagr 1St Phase, -Kanakapura Main Road",560078,080-26539923,080-26535804,12.9117746,77.5730574
+Balaji Hospital,"40/1, J.J.R. Nagar Main Road, K.H. Ranganath Colony",560018,080-28916038,,12.9632506,77.5602901
+Basavangudi Medical Centre,"84/1, R.V. Road, Basavanagudi",560004,080-26571638,080-26571638,12.9453043,77.5798656
+Chaitanya Hospital,"No.80, 3Rd Cross, P&T Colony,R.T.Nagar",560032,080-23333581,080-23432633,13.0237316,77.5941463
+Citi Hospital,"25/91, West Of Chord Road, 20Th Main, 2Nd Block, Rajajinagar",560010,080-23131777,080-23131555,12.9956506,77.5510696
+Chandana Hospital,"#54, 4Th Cross, 4Th Main, Ngefnrupathunganagar, Nagarbhavi",560072,080-23213658,080-23213658,12.9579894,77.5114394
+Chinmaya Mission Hospital,"1/1, C M H Road, Indiranagar",560038,080-25280461,080-25201900,12.9784826,77.6462222
+Chord Road Hospital Pvt Ltd,"100/101,Lic Colony West Of Chord Road",560079,080-67192248,080-23239972,12.9981215,77.5404836
+Chaitanya Medical Centre,"# 771/24, Khb , Asector, Yelahanka",560064,080-25972745,080-28561725,13.09249065,77.58633265
+Chiranjeevi Hospital & Maternity Home,"16Th 2Nd Main, Sri Manjunatha Temple St, Mysore Bank Colony",560050,080-26917676,080-26697222,12.9386994,77.5518394
+Dr.P.R. Desai Hospital Pvt Ltd,"# 6/6, Kumarkrupa Road, High Grounds, Sivananda Circle",560001,080-22260307,080-40914558,12.9863536,77.57921156
+Dr. Vidyananda'S Surgery & Dia Centre,"2269, 22Nd Cross K R Roadk.R.Road",560070,080-26765771,080-26770281,12.9242515,77.573217
+Dr.Rudrappa'S Hospital,#5 Rajaram Mohan Roy Corss Road,560025,080-22278788,080-22278797,12.9650303,77.5954946
+Rotary Eye Hospital (A Unit Of Bangalore North Rotary Trust),"68Th Cross 10 A Main, 5Thblockrajajinagar",560010,080-23104020,080-23104020,12.9817233,77.5549364
+Gangothri Hospital,"#27, Kuvempu Nagar, (Btm.Layout)100 Ft Ring Road",560076,080-26682734,080-26682734,12.9162878,77.6138218
+Geetha Hospital,"Old Madras Road, Ramapura Crossnear Cipla Factory",560049,080-25913935,080-28915803,13.0357169,77.7351701
+Hitech Kidney Stone Hospital,"6/7, Cresent Road, Crosshigh Grounds",560001,080-51136035,080-22207113,12.9878104,77.5809833
+P.D. Hinduja Sindhi Hospital,"12Th A Cross,Sampangiram Nagar",560027,080-49060600,080-22237527,12.964414,77.59263899
+Hosmat Hospital,"No-45, Magrath Road, Off Richmond Road",560025,080-25593796,080-41124695,12.9691122,77.61330703
+Jayashree Nursing Home,No 4 4 Th Cross Kumara Park,560020,080-23440981,080- 23460858,12.99111,77.5777982
+Jai Maruthi Hospital,"#208 & 210, Hegganahallimain Road",560091,080-28361097,080-28364760,13.0068811,77.5055636
+Kamala Nursing Home,"# 1077,14Th Main Hanumanthanagar",560019,080-26607445,080-26607445,12.9450536,77.5586486
+Ketham'S Hospital Pvt Ltd,"#51/2, Nanjappa Main Road, Vidyaranyapura",560097,080-28386118,080-42107094,13.0686568,77.5582571
+Koshys Hospital,"T.C Palya, Main Road, Raghavendra Nagar",560016,080-25658011,080-25658044,13.0207033,77.6760593
+Kruthika Hospital,Nanjappa Vidyaranyapura Mainroad,560097,080-28385111,080-41626193,13.0650144,77.5041964
+Kumar Nethralaya,#562 Rajajinagar 2Nd Block Near Rajkumar Road Esi Hospital,560010,080-23424844,080-23424844,12.9907644,77.5568951
+Lakeside Medical Centre,33/4 Meanee Avenue Road,560042,080-25566738,080-25512934,12.9878631,77.6177434
+Lokhande'S Hospital,"#3, Ac902, 3Rd Cross. 9Th Amainhrbr Layout, Kalyannagar.Hrbr Layout, Kalyananagar",560043,080-25456222,080-25453282,13.0186045,77.6479433
+Lakshmi Maternity Home,"#95, 15Th Cross, Margosa Road, Malleswaram",560055,080-23563016,080-23563016,13.0058226,77.5694512
+Lakshmi Nursing Home,"#567, Chokkasandra, Tumkur Road T-Dasarahallit.Dasarahalli",560057,080-28396992,080-28911190,12.9928414,77.5753482
+Maharaja Agrasen Hospital,"15Th Main, Padmanabha Nagar",560070,080-26393361,080-26391600,12.915903,77.5550223
+Mallya Hospital,"# 2, Vittal Mallya Road",560001,080-22277979,080-22242326,12.96797975,77.59507448
+Mamta Hospital,"# 12, D. Rajagopal Road, Amar Jyothi Layout, Next To Food World, Nagashetty Halli, Sanjay Nagar",560094,080-23415836,080-23564904,13.0377564,77.5744454
+Manasa Hospital,No 149 15Th Main Iv Blockiii Stage Basaveswaranagar,560079,080-23235599,080-23238080,12.968821,77.5246297
+Mirlay Eye Care,"No. 9, St. John'S Church Road, (Opp. St John'S Community Center) Next To Bharathi Nagar Police Station, Bharathi Nagar",560005,080-25558414,080-25558414,12.9911349,77.6126146
+Mangal'S Nursing Home,"1152, 3Rd Main, 6Th Cross, K.N Ext Yashavanthapur",560022,080-23472725,080-23577866,13.0220526,77.5576729
+Manjunatha Maternity Home & Surgical Centre,"90/1, West Park Road, Malleshwaram",560055,080-23341332,080-23562349,13.0077265,77.5696993
+Akshay Mallya Hospital,"Varthur Main Road, Marathalli",560037,080-65658127,,12.9568527,77.6990468
+Mathru Hospital,"No.2094, Railway Parallel Road, Kengeri Satellite Town",560060,080-28484238,080-26919662,12.9110975,77.4806057
+Mathru Shree Hospital,"#33, Mei Colony, Laggere Main Road, Laggere",560058,080-28396389,,13.093893,77.39299
+Namratha Nursing & Maternity Home,"No.158, 6Th Main, 2Nd Stage, 2Nd Phase, West Of Chord Road, 6Th Main",560086,080-23595433,080-23595433,13.0045747,77.5432728
+Narayana Nethralaya,"C-121, Chord Road, Rajajinagar 1St R Block.R Block",560010,080-66121312,080-23377329,13.01152045,77.55210694
+Nayak Hospital,"3367, 5Th Cross, Gayathri Nagar.Gayathri Nagar",560021,080-23327111,080-23327111,12.9993857,77.5606403
+Neha Prakash Hospital,"# 8, 6Th Main Road, 5Th Phase, Rail -Weel Factory Yelahanka New Townyelahanks New Town",560064,080-28565696,080-28565697,13.10773135,77.57172995
+Oxford Hospital,"# 1364, 41St Main Sarakki Gatekanakapura Road, J.P. Nagar",560078,080-26635880,,12.9312101,77.5756907
+Padmavathi Hospital,"#67/1, Hvr Complex, Magadi Road",560072,080-23289571,080-22928018,12.9817311,77.5333714
+Patil Hospital,"#42-B1, Below Synicate Bank, Sri Thimmappa Complex, Old Madras Road, Krishnarajapuram.- 5600036",560036,080-32003633,080-25613828,13.011214,77.6979598
+Prabha Eye Clinic,"No.504, 40Th Cross, 8Th Block, Jayanagar, Jayanagar",560070,080- 26659595,080-22446360,12.9197167,77.5753405
+Prasad Eye Hospital,"# 11, Krishna Nagar, Hosur Main Road",560029,080-41106887,080-41230663,12.9351929,77.6086817
+Prasad Hospital,"#1494, B.H. Road Nelamangala Town",562123,080-27722112,080-27722273,12.9603312,77.5300796
+Pranav Hospital,"Annaiah Reddy Layout, Ramurthy Nagarramamurthy Nagar Main Road",560043,080-25458150,080-41630466,13.0770012,77.5581038
+Pradnya Nethralaya,"#4, 6Th Cross Dinnur Road Ganesha Block Rt Nagar Opp White House Apartments",560032,080-23431020,080-23431020,13.0244555,77.6003999
+Radhakrishna Multispeciality Hospital,"No. 3-4, Sun-Rise Towers J.P. Road,  Girinagar",560085,080-26422977,080-26720222,12.94096775,77.54556049
+Rajalakshmi Multi Speciality Hospital,"76-1-1, Sarakki Main Road. 1St Phase",560078,080-22440729,080-22457277,12.91646005,77.57957293
+Rashmi Hospital,"190,Double Road,Indiranagar 2Nd Stage",560038,080-25251573,080-25200447,12.9766951,77.6362278
+Ravi Kirloskar Memorial Hospital,"19, 2Nd Main Road 1 Phasepeenya Industrial Area",560058,080-42602431,080-41172984,13.0384642,77.52770783
+Republic Hospital,"No.5,  Langford Garden",560025,080-22211762,080-22118535,12.964162,77.5982255
+Reddy Hospital,"#1590, East End Main Road, 39Th Block Jayanagarcross, 9Th Block, Jayanagar",560069,080-22454706,080-26911143,12.975403,77.6470594
+S.J.Hospital,"#2, Ngef Layout, Sanjayanagar Main Rod, Opp To Vaibhav Theatre",560094,080-23416836,080-23512638,13.0360827,77.575065
+Sagar Hospitals,"44/45, 30Th Cross, Tilaknagar",560041,080-42888888,080-41179997,12.92789135,77.59983771
+Saraswathi Hospital,"39, 17Th C Cross8Th B Main, Bsk 2Nd Stage",560070,080-26760363,,12.9276382,77.568896
+Sathya Hospital,"# 45, C.Ramaiah Layout, Kammanahalli Main Road St.Thomas Town Postkamanahalli Main Road",560084,080-25443604,080-25443415,13.0185503,77.6364728
+Shaker Nursing Home,"#260, Sampige Road, Near 17Thcrossmalleshwaram",560003,080-23345901,080-41535313,13.0074887,77.5708352
+Shekhar Hospital,"81, Bull Temple Road",560019,080-22421144,080-26676996,12.945944,77.567404
+Sukruthi Eye Care Microsurgical Centre,"148, Xi Cross, Vyalikaval, Malleswaram 11 Th Crossmalleswaram",560003,080-23566251,080-23363286,13.0020083,77.5763887
+Sri Krishna Hospital,"# 154, 29Th Cross, 17Th Mainbanashankari 2Nd Stage",560070,080-26711212,080-26712433,12.9215013,77.5655432
+Sri Ram  Hospital,162 4Th Main 1St Cross Opp Post Officeviveknagar,560047,080-25714323,080-25716729,13.0096231,77.6924713
+Sri Sai Ram Hospital,"# 33, Bannerghatta Road (Service Road) B.T.M.Layoutb.T.M. Layout 2Nd Stage",560076,080-41202341,080-26912649,12.8943049,77.5682821
+Sri Vinayaka Hospital,"1222, 80 Feet Road, Chandra Layoutchandra Layout",560040,080-23398062,080-23215600,12.9575029,77.5276466
+St.John'S Medical College  Hospital,"Johnnager, Koramangala.Koramangala",560034,080-22065173,080-25635474,12.92967835,77.61835854
+St.Martha'S Hospital,"No.5, Nrupathunga Road",560001,080-40128200,080-41140068,12.906113,77.542548
+Sunayana Eye Hospital,"#1156, 26Th Main, 4Th T Block, Jayanagar",560041,080-22442356,080-26646484,12.9255233,77.5937748
+Sundar Hospital,"#1&2, Hennur Main Road, Lingarajpuram",560084,080-25478586,080-25481315,13.0080166,77.6221479
+Sunetra Eye Hospital,"# 519/34, 2Nd Cross, 10Th Main, Banashankari 1St Stage",560050,080-22410500,080-25905206,12.9404548,77.5578493
+Supra South City Hospital,"# 2, Chandra Complex, J.P.Nagar 7Th Phase Puttenahalli7Th Phase, J, P Nagar",560078,080-26634617,080-26634617,12.8919509,77.5799654
+Suresh Hospital,"# 723/B, 3Rd Block, Esi Hospital Road Rajajinagar",560010,080-23382867,080-23118726,12.9897745,77.5551014
+Sri Sai Eye Hospital,"# 311 4B Cross,Ramamurthynagar",560016,080-25658459,080-25662866,13.011968,77.6659168
+St. Theresa'S Hospital,"1St Block, Rajkumar Road, Rajajinagar",560010,080-23472772,080-23472772,13.00683545,77.55310607
+Tandon Eye Clinic,"#39, 7Th Cross, Vasanthnagar",560052,080-22256115,080-22256107,12.991859,77.5917461
+Radha Maternity & Surgical Hospital,"#71, Mill Road, Cottonpet",560053,080-26702006,080-25997213,12.9690441,77.5688544
+The Eye Surgical Centre,"# 1032, Sai Deep, 20Th Main, 5Th Block, Rajaji Nagar",560010,080-23309722,080-23309722,12.9821954,77.5493143
+Trinity Hospital & Heart Foundation,"# 27, Rammandir Road, Near R.V. Teacher'S College Circle, Basavanagudi.Basavanagudi",560004,080-40136999,080-26563995,12.9434791,77.57943238
+Udhbhava Hospital,"14, 100Ft Ring Roaf, Banashankari 3Rd Stage",560085,080-26693032,080-26693033,12.9256842,77.5489346
+Vaidyam Hospital,"# 851/D, 60Th Cross, 5Th Block, Rajajinagagar",560010,080-23353525,,12.9845512,77.5528322
+Venlakh Hospital,"123, 5Th Main Roadchamarajpet",560018,080-26508118,080-22423653,12.9572978,77.5644522
+Vidya Eye Hospital,"47/E, 15Th Main, M.C Road, Vijayanagar",560040,080-23389854,080-23201131,12.9707429,77.5377684
+Vijaya Nethralaya,"No. 05, 20Th Cross, Malgala Under Pass, Ring Road, Nagarbhavi 2Nd Stage",560091,080-30163800,080-30163899,12.9416358,77.5629853
+Vijaya Hospital,"#13, 6Th Cross, T.Dasarahalli Main Road T.Dasarahalli, Near Nh",560057,080-28378265,080-28378265,12.96767,77.5226459
+Vivekananda Hospital,"# 200, B.U.S. Complex, Bannerugatte Road, Billekahaly",560076,080-30614826,080-42176094,13.0070245,77.5544693
+Vijaya Ent Care Centre,"# 1, 9Th Cross, Malleswaram",560003,080-23311837,080-23361727,13.000058,77.5696143
+Varalakshmi Hospital,"# 38/2, 2Nd Main Road, Madiwala New Extension",560068,080-25539565,080-25539565,12.924624,77.6170966
+N.R.V. Hospital,V.N.Cros Opp Reliance Petrol Pump B.B. Road,562157,080-28467855,080-28467855,13.1631138,77.6293449
+Kaveri Speciality Hospital,"#15/2, 4Th Cross, Hosur Main Road, Madiwala",560068,080-25537036,080-25537036,12.9236768,77.6193111
+Sri Ram Nursing Home,"#887, 7Th Main, Raghavendra Block, 50 Feet Main Road, Srinagar",560050,080-26752006,080-26752006,12.942159,77.551764
+Sri Sai Clinic & Maternity Home,"#652, 46Th Cross A 3Rd Block, Rajajinagar",560010,080-23351958,080-23151958,12.9880313,77.5557142
+Bangalore Eye Hospital & Retina Centre,"4C, 426 4Th Cross, 2Nd Block, Kalyannagar",560043,080-25421333,080-25902546,13.0221036,77.6387729
+Abhilash Hospital & Sara Rehabilitation Centre,"#271, 1Ooft Ring Road, 5Th Block, 3Rd Phase, 3Rd Stage, Banashankri",560085,080-26697114,080-41723327,12.9246384,77.5509238
+Vathsalya Speciality Hospital,"#565, 3Rd Stage, 4Th Block, Basaveshwaranagar",560079,080-23239732,080-23239978,12.9939752,77.5391801
+Hcg Double Road,"#44-45/2, 2Nd Cross, Raja Ram Mohan Roy Extension.Lalbagh Road",560027,080-22225644,080-22483380,12.9605309,77.592659
+Jayanagar Orthopaedic Centre,"# 24/1-1, 14Th Main, 4Th Block East, Jayanagar",560011,080-26632735,080-26632736,12.9293288,77.5877091
+Karanth Speciality Hospital,"#307, 100Ft Ring Road, Btm Layout Last Bus Stop.100 Feet Ring Road, B.T.M",560068,080-26680886,080-26680886,12.9160081,77.6193573
+Sri Vivekananda Sevashrama,"#39, 8Th B Main Raod, Bsk 2Nd Stage",560070,080-26766996,080-26766996,12.9253299,77.5711893
+Vinayaka Hospital,"#110, 80Ft. Road, S>B>M? Colony, Bsk 1St Stage, Hanumanthanagarhanumanthanagar",560050,080-26796167,080-26794133,12.93753,77.549675
+Vagh Eye Centre,"73/1-2, 1St Floor, Infantry Road",560001,080-25584156,080-25589407,12.9799788,77.6056145
+Manipal Hospital,"#98, Rustam Bagh, Old Airport Road, Vimanapura, Bangalor",560017,080-25024444,080-25261151,13.0509696,77.5938648
+Saikrupa Hospital For Women & Surgical Centre,"20Th B Cross, Marenahalli Main Road, Vijayanagar",560040,080-23116492,080-23116492,12.9691657,77.5351921
+Spandana Nursing Home,"# 546/46, 6Th Main, 4Th Blockrajajinagar",560010,080-23353500,080-23147995,12.9848505,77.5581537
+Amrik Nethralaya,"#346, Hrbr 1St Kalyan Nagar, 4Th Cross, 7Th B Main",560043,080-25424714,080-41615009,13.0195531,77.6443814
+Deepa Hospital,"# 27, Old Madra Road K.R. Puram Ext",560036,080-30911166,080-25610123,13.0120509,77.6998816
+Supriya Hospital,"# 15/1, Ayyappaswamy Temple Road, Prakashnagar",560021,080-23522366,,12.9929043,77.5588015
+Lakshmi Hospital,"402, 2Nd Cross Judges Colony",560032,080-23333241,080-22924845,13.1579281,77.6252103
+Manjushree Hospital,"# 91, Kavalbyrasandra, Dr. A.M.C. Road, R.T.Nagar, Opposite P&T Quatres",560032,080-23632781,080-23657196,12.9825845,77.6124926
+Meenakshi Ent Speciality Centre,"# 2232, 23Rd Cross, Banashankari Ii Stagebanashankari 2Nd Stage, ",560070,080-26764621,080-26762892,12.8832766,77.5829876
+Vinayaka Nethralaya,"#68, 100 Feet Ring Road, Btm Layout",560076,080-26685891,080-26685891,12.9164779,77.6033811
+Rajarajeshwari Medical College And Hospital,"Rajarajeshwari Medical College, Kambipura",560074,080-57661805,080-28437878,12.89386335,77.46361973
+Hcg Hospitals,"11/2, Magadi Main Road, Agarahara Dasarahalli, Bangalore-560079",560079,080-43108100,080-43108105,12.9605309,77.592659
+Sreenagar Nursing Home,"#855, Ramanjaneya Main Road, Sreenagar",560050,080-22428830,080-22428830,12.9443766,77.5551899
+Soukya Hospital,"#17, N.T.I Layout, Vidyaranyapura Main Road",560097,080-23642029,080-23642029,13.0774744,77.5587548
+Spurthy Hospital,"# 22, 1St Main Chocolate Factory Road, Tavarekere Btm 1St Stage",560029,080-26844042,080-25978989,12.923857,77.611355
+Trupti Nursing Home,"# 463, 1Block, 3Rd Stage, Basaveshwar Nagar",560079,080-23220269,080-23220269,12.9946566,77.5397544
+Manipal Polyclinic & Nursing Home,"#291, Main Road, Ramamurthy Nagar",560016,080-25909853,080-25661807,13.0115263,77.6700582
+Sri Maruthi Hospital,"# 50, Kondappa Garden, Kogilu Road",560064,080-28571526,080-28571537,12.9926441,77.5742046
+Sree Lakshmi Hospital,"21St Cross, Kaggadasapura Main Road, C.V.Raman Nagar Post",560093,080-41676336,080-41706967,12.9825937,77.6814736
+Sree Ranga Hospital,"No.1/7, 1St Floor, Nagadevanahalli Bus Stop, Kengari Post",560056,080-26602718,080-26602718,12.9358669,77.4927128
+Sri Vinayaka Nursing Home,"No.3033, 8Th Main, 80 Feet Road, Hal 2Nd Stage",560008,080-25281044,080-41523616,12.9729726,77.6463407
+Sri Venkateshwara Hospital,"1St Main Road, Peenya 2Nd Stage",560058,080-28361441,080-28361441,13.0423919,77.5136653
+Kamala Nethralaya,"No.81, 7Th Cross, 4Th Block, Near Bda Complex, Koramangala",560034,080-25526944,,12.9314314,77.6233582
+Retina Institute Of Karnataka,"No.122, 5Th Main Road, Opp To Osteen College, Chamarajpet",560018,080-22410106,080-26607811,12.95727,77.5640827
+North Star Maternity & Nursing Home,"#4, Sarakki Industrial Estate, 3Rd Phase, J.P.Nagar, Bannerghatta Road",560076,080-26583903,080-26583903,12.9067079,77.5849275
+Suguna Hospital,"1A/87, Dr. Rajakumar Road, 4Th N Block, Rajajinagar",560010,080-40194444,080-40948558,12.9881799,77.56007546
+Vijayanagar Global Hospital,"#46, 17Th Cross. M.C. Road",560040,080-2342442,080-23151784,12.9717905,77.5372864
+Sri Ram Hospital,"#107/2, K.R. Puram Nishvasaha Centre, Old Madras Road, -5600036",560036,080-25610988,080-25610988,13.0096231,77.6924713
+Shreya Hospital,"# 73, 6Th Cross, 3Rd Main, Kengeri Satellite Town, ",560060,080-28482958,080-28485042,12.9621516,77.533401
+Y.K. Hospital,"C A Plot 65 Ring Road, Jiganiindustrial Area",562106,08110-414397,,12.7796608,77.6347804
+Gurukripa Health Care Centre,"#30, 1St Floor, Galeyara Balaga Bus Stop, Mahalaxmipuram",560086,080-23492619,080-23191563,13.0001802,77.5461146
+Lakshmi Nursing Home,"#86, 2Nd Main Road, Seshadripuram",560020,080-23670610,080-23670613,12.9928414,77.5753482
+Bhagwan Mahaveer Jain Hospital,"No.17, Millers Road, Vasanthnagar",560052,080-22207640,080-22261153,12.991652,77.59514884
+Shekhar Hospital,"# 942, 28Th Main, 9Th Blockjayanagar",560069,080-22454223,080-26533806,12.945944,77.567404
+Mysore Hospital,"#35/6, Industrial Subued, Gurgentepalya, Yeshwanthpur",560022,080-22900049,080-41276265,13.0275337,77.5397051
+Shanmuga Nursing Home,"#9/8, Sulthanpalya Main Road",560032,080-23336823,,13.0241654,77.6033556
+Cauvery Orthopaedic Centre,"#408, 20Th Main, W.O.C.Road, 1St Block, Rajajinagar",560010,080-23125577,080-23125577,12.9984887,77.5504219
+Akshaya Nethralaya,"#227/A, Vidyagiri Layout N Exit O Axis Bank Nagarbhavi Circle",560072,080-23390350,080-23147173,12.9575968,77.5189881
+Acharya Tulsi Jain Hospital,"Mom(M)W6-P-6, #22/2-1, 6Th Cross, K.N Extension",560022,080-23374677,080-23373337,13.0218344,77.5567093
+Sri Sai Krupa Hospital,"#19/A, Opp Lic, Mathikere Main Road",560054,080-23471367,080-23376254,13.0294181,77.5593857
+Raksha Multispeciality Hospital,"#141/142, 1St Main, Police Quarters, Khb Colony, Nandini Layout",560096,080-23471005,080-23373592,13.0195733,77.5419559
+Eye Care Centre,"#57, 13Th Main, 4Th Block East, Jayanagar",560011,080-26630063,,12.9883622,77.53432613
+Ashraya Hospital,"#26, Jetiappa Complex, Yelachenahalli, Kanakapura Rd",560078,080-26669130,080-6669130,12.988865,77.5078006
+Varna Nursing Home,"# 513/2Nd Cross, 8Th Main, Bsk 1St Stage, 2Nd Block",560050,080-26673410,080-26618575,12.9403953,77.558544
+Trinetraalaya Eye Care & Surgical Centre,"22/2, 13Th Main, Banashankari1St Stage, 1St Block, Srinagar",560050,080-51203583,080-26679135,12.943838,77.5537472
+Ring Road Hospital,"# 129, 1 Main Road, Kattriguppe, 3Rd Stage, Banashankari",560085,080-26797040,080-26594271,12.9274553,77.5516293
+Harsha Hospital,"# 193/4, Nh 4, Sondekoppa Circle, Nelamangala",562123,080-27723697,080-27723697,13.09314935,77.39562779
+Balaji Nursing Home,Dommasandra Bus Stop,562125,080-27822092,080-27822092,12.9561944,77.5460348
+Roshni Nursing Home,"# 16/10 3Rd Main, 14Th Cross, Wilson Garden",560030,080-32947331,080-32947331,12.9486255,77.600076
+Apollo Hospitals,"No.154/11, Opp To Iimb, Bannerghatta Road",560076,080-40304050,080-41305885,12.896344,77.5978813
+Sri Venkateshwara Hospital,"# 86, Hosur Main Road, Madiwala",560068,900818205,080-40416700,13.0423919,77.5136653
+T.R. Hospital,"125/1 T0 7, Kothnur Dinne Main Road, Sapthagiri Layout",560078,080-41663480,080-42657788,12.8807554,77.5841671
+Ramakrishna Hospital Pvt Ltd,"806/1, 15 Th Cross, Jayanagar, Iii Block, -Jayanagar, Iii Block",560011,080-40800250,080-22454888,12.8541208,77.6624811
+Abhaya Eye Hospital,"#77, Bsk 3Rd Stage, 100Ft Ring Road, 5Th Block",560085,080-65316155,080-26422111,12.9271131,77.5471291
+G.E.F. Eye Hospital,"A.I.R. Extension, (Old Madras Road, Nh4)",562114,08111-650501,080-25255174,13.0672067,77.7802707
+Fosa Humanitarian Hospital,"Near Bannerghatta Police Station, 20Th Milestone, Bannerghatta",560083,080-7828612,,12.8130672,77.5825109
+Kala Hospital,"1105, 5Th Cross, K.N. Extension, Yeshwanthpur",560022,080-23376446,080-23570446,13.0223669,77.5587304
+Kalasa Maternity Home,"# 127, Bull Temple Road",560019,080-26509681,080-26711818,12.9548208,77.5672585
+Malleswaram Eye Day Care Hospital,"# 24 First Floor, 5Th Cross, Near Malleswaram Circle",560003,080-23369464,080-23369464,12.9966677,77.5716037
+Manipal Northside Hospital,"71, 11Th Main, Malleswaram",560003,080-23460469,080-23440471,13.0011275,77.5639285
+Samprathi Eye Hospital And Squint Centre,"# 111, Railway Parallel Road, 7Th Cross Kumar Park West",560020,080-23367544,080-23360099,12.9932806,77.580691
+Shalini Nursing Home,"#63, 6Th Main, B.D.A Layout, Avalahalli",560085,080-26740447,080-26740447,12.9436624,77.5419997
+Kavya Hospital,Hongasandra Begur Main Road,560068,080-25735487,080-25730900,12.8987442,77.6263127
+Anugraha Hospital,"No 18/2, 1St Cross, M.C. Layout, Vijayanagar",560079,080-23200330,080-23200330,12.9765645,77.5455876
+Mahanth Hospital,"#8, 1St Cross, N.G.R Layout, Roopona Agrhar",560068,080-25732790,080-25736387,12.9079615,77.6235715
+Sanjeevani Hospital,"381, 382, 6Th Block Rajajinagar, Near Prassanna Circle",560010,080-23590365,,13.011686,77.54385359
+Kusuma Hospital,"#237/37, 10Th Main, 50 Ft. Road, Nagendra Block, Srinagar",560050,080-26421177,080-26421948,12.9420124,77.5506918
+Indira Hospital,"Main Road, Jigani",562106,080-7825179,080-7825179,12.7893233,77.6272005
+Karthik Hospital,"#56, 8Th Cross, Wilson Garden",560027,080-22224611,080-22132072,12.9484356,77.5942592
+Shankara Nethralaya,"41-42/45, 7Th Cross, Saraswathipuram Nandini Layout Main Road",560096,080-23190865,080-23190865,13.0089953,77.5406188
+Krishnadevaraya Hospital & Research Centre,Sir Mvit Campus Hunsamaranahalli,562157,080-28477023,080-28467084,13.1498837,77.608248
+Dr.Kamini Rao Hospital (A Unit Of Bacc Health Care Pvt Ltd),"#909, 47Th Cross, 9Th Main, 5Th Block, Jayanagar",560041,080-26534444,080-26534444,12.9163994,77.5847384
+Yogananda Medical & Research Centre,"#277, M.K. Puttalingaih Road",560007,080-26792251,080-26793281,12.9202791,77.5598033
+Columbia Asia Referral Hospital,"#26/1, 80Feet Dr.Rajkumar Road, Malleshwaran West",560055,080-39898969,080-30925454,13.01440205,77.55607494
+Manasa Hospital,"G.Chandranna Building, Near Old Bus Stop, Devanahalli Town",562110,080-27682385,080-27680006,12.968821,77.5246297
+S.S.G Hospital,"#116/2, Herohalli, Anjananagar, Vishwaneedam Post",560091,080-69920361,080-69920361,12.9868695,77.4794832
+Dr.Ramesh Hospital,"#6/63, 59Th Cross, 4Th Block, Rajajinagar Entrance",560010,080-23151873,080-23116750,13.0250141,77.5856289
+Popular Hospital,"#16, 3Rd Cross, Shankerpuram",560004,080-42849500,080-26674650,12.9514854,77.5703564
+Sree Venkateshwara Speciality Hospital,"#1, Gupta Layout, Lakkasandra, Bannerughatta Road",560030,080-22104329,080-42185163,12.9425246,77.6025303
+Rangalakshmi Netralaya,"#2054, 13Th B Main Near Mother Dairy Cross Yelahanka New Town",560106,080-28463544,080-28463544,13.0989729,77.576732
+Sagar Hospitals,"Shavige Malleshwara Hills, Kumara Swamy Layout, Banashankari",560078,080-42999999,080-42999050,12.92789135,77.59983771
+Spring Leaf Health Care Pvt Ltd,"#60/3, Konappana Agrahara, Opp Infosys Convention Centre",560100,080-67345000,080-67345099,12.8526731,77.6676459
+Mathrushree Hospital,"#6930, S.No.198, Nh-4 Soundekoppa Nelamangala",562123,080-27722496,080-27724733,12.9899013,77.5533586
+V-Care Hospital,"#29, 1St Main Road, 1St Block, Devegowda Road, R.T. Nagar",560032,080-23434373,080-23434329,13.015884,77.5973475
+Bhagavathi Multi Speciality Hospital,"L-168, 6Th Sector, Hsr Layout",560102,080-41245868,080-41245868,12.9160636,77.6308219
+The Pulse Multi Speciality Hospital,"No 5/8/1, 20Th Main Road Muneshwara Block, Girinagar",560082,080-26724466,080-26722969,12.9424801,77.5473283
+Sri Shirdi Sai Hospital,Surabhi Complex B.B Road Devanahalli Town Opp Canara Bank,562110,080-27681395,080-267681395,13.2439141,77.7111925
+Sri Venkateshwara Eye Hospital,"#5, Drls Plaza, Nh4, T.Dasarahalli",560057,080-28370013,080-28370013,13.0423919,77.5136653
+Sakaria Healthcare Pvt Ltd,"#797, 10Th Main Ist Stage 3Rd Block Hbr Layout",560043,080-25435050,080-25434040,13.029607,77.6275328
+Anugrahaa Hospital,"55/3A, Govindana Setty Palya Road Konappana Agrahara Electronic City Infosys South Taluk",560100,080-28521234,080-28521234,12.8548947,77.6681162
+Arunodaya Hospitals,"# 18-23 4Th And 5Th Cross Mallasandra Main Road, Bagalagunte",560057,080-28395214,080-28395644,13.0570647,77.50850765
+Mvj Hospital,"Nh-4, Mvj Hospital 31 Km Milestone Old Madras Road",562114,080-27931473,080-27931645,13.0776916,77.8116931
+South City Hospital,"53/1(45), Shalini, Susheela Road, Lalbagh Upparahalli",560004,7204931879,080-42103814,12.94965165,77.5803074
+Deeksha Hospital,#387/347 Bb Road Nehrunagar Yelahankaold Town,560064,080-32564445,080-28566881,13.09823615,77.59704415
+Srinivasa Eye Hospital,"No-60, Banaswadi Main Road Beside Uma Maheswari Temple",560043,080-40955959,080-40955958,13.0147224,77.6515616
+Sri Sai Ram Hospital,"#6, Jc Industrial Area Yellachanahalli Ist Stage Kanakpura Main Road",560060,080-26860159,080-26860157,12.8943049,77.5682821
+Nmpc Hospital,"#66, Jayaram Reddy Layout Horamavu Post Near Home Buzz Horamavu Main Road",560043,080-25420632,080-25420632,13.02241575,77.6580401
+Motherhood (Unit Of Rhea Healthcare Pvt Ltd),"#324, Cmh Road, Indirangar Ist Stage Next To Vijaya Bank Building",560038,080-25190000,080-25203355,12.9784409,77.6375845
+Sri Lakshmi Multi-Speciality Hospital,"#127/1, Sri Gandhada Kaval Sunkadakatte Vishwaneedam Post Magadi Main Road",560091,080-23588315,080-23588319,12.9881868,77.5087273
+Srivijaya Speciality Hospital,#699 3Rd Main Road Bhuvanagiri Layout Doddabanaswadi,560043,080-25428429,080-25428429,13.0124345,77.6580271
+Sapthagiri Hospital,No 15 Chikkasandra Hesarghatta Main Road,560090,080-28393392,080-28393405,13.07056115,77.50236919
+Dhanush Hospital,"#63, Byraveshwara Nagar 2Nd Main, Nagarbhavi Main Raod",560072,080-23185544,080-23185333,12.9654318,77.52312
+Jayashree Multi Speciality Hospital,"#25, 26 & 27, 1St Cross, B Block Vishwapriya Nagar, Begur",560068,080-25745888,080-25745888,12.881583,77.62607261
+Amrutha Hospital,# 1 Near Water Tank Jakkur Main Road Amruthahalli,560092,080-40928888,,13.0657486,77.5992653
+Sparsh Hospital For Advanced Surgeries,"# 146, Infentry Road, Near Police Commissioner Officer",560001,080-33282061,080-33282111,12.98327855,77.59476886
+Srushti Hospital,"124, Kanakapura Main Road, Jayanagara 7Th Block",560082,080-26761144,080-26761145,12.8981572,77.6207364
+Sri Lakshmi Venkateshwara Hospital Pvt Ltd,"4/38. 1St Main, 4Th Phase, Industrial Area, Yelahanka New Town",560064,080-42042436,080-42042435,13.10562785,77.57729973
+Town Hospital,"Near Srirama Temple Bagalur Road, Sarjapurr",562125,080-27883388,080-27823388,12.8605613,77.7898375
+Poornima Hospital,"#200/A, Hmt Layout, Rt Nagar",560032,080-23557272,080-23337272,13.0263344,77.595128
+K C Raju Multi Speciality Hospital,Lingarajapuram Hennur Main Road,560084,9686382856,080-25477712,13.0090828,77.6235594
+Aditya Netralaya,"#244, 7Th Cross 6 Block 3 Puase 3Block Banashankari",560085,080-26695392,080-26695392,12.9244632,77.5535296
+Sri Ramakrishna Hospital,Opp Tvs Show Room Old Madras Road Krishnarajapuram,560036,080-25616114,080-25616114,13.0121705,77.6961802
+Manasa Hospital,"No 107, 6Th Main, 2Nd Cross, Vijayanagar",560040,080-23104604,080-23104640,12.968821,77.5246297
+Metro Hospital,21/3 Vasanthpur Main Road Konanakunte Cross,560062,080-64522226,080-30461500/51,12.8915893,77.560715
+Nagappa Hadli Hospital,M S Palya Circle Vidyaranyapura Post,560097,080-22713016,080-23641993,13.0829889,77.5489026
+Nethra Eye Hospital,"#8, Poojary Layout, 80Ft Road, Rmv 2Nd Stage",560094,9632584711,080-23512666,13.0270895,77.57686133
+Shree Vijayalakshmi Hospital & Trauma Centre,#3/666 Hennur Bande Hennur Main Road Kalyan Nagar Post,560043,080-42351594,080-42351594,13.0373572,77.6409059
+Drishti Nethralaya,"36/7, 1 Floor, 24Th Main Road, Girinagar Muneshwara Block, Girinagar, -560085",560084,080-26740035,080-26723135,12.9422541,77.5506328
+Sharada Hospital Nelamangala,"Paramanna Layout, Opp To Corporation Bank",562123,080-27722099,080-27722099,13.0966204,77.3972158
+Sidvin Hospital Pvt Ltd,"#1031, 20Th Main, 5Th Block Rajajinagar",560010,080-23505566,080-23506900,12.982442,77.5493681
+Life Care Hospital,"No.23/24, 20Th Main, Btm 1St Stage, Om Complex",560028,080-32550276,080-26841727,12.9239305,77.6132696
+Vijayashree Hospitals,"#3, Gottigere, Bannerghatta Main Road, (Opp. To Divyasree Medicals)",560083,080-49068888,080-49068800,12.8579673,77.5892687
+Bilva Hospital,"No. 21, 22, 2Nd Main Palace Guttahalli, -, Near Vinayaka Circle",560003,080-26444456,080-23444458,12.999009,77.5797442
+Medi-Derma Hospital,"85, Byrathi, Hennur Main Road",560077,080-28465644,080-28465744,13.0555559,77.6517145
+K.R. Puram Super Speciality Hospital,"3Rd Main Road, Old Extension , K.R. Puram",560036,080-25619999,080-25615599,13.0110115,77.6935975
+Vasan Eye Care Hospital-Rajarajeshwari Nagar,"No 483,  Seetha Complex,16Th Cross 18Th Main, Rajarajeshwari Nagar, Bangalore - 560098, Karnataka",560098,080-39890300,080-30411900,12.931334,77.5154779
+Medic Star Hospital,"#17/1, Arunachalam Mudaliar Road, Shivaji Nagar, Bangalur",560001,080-25566601,080-25553355,12.9876871,77.6093097
+Vasan Eye Care Hospital-Rt Nagar,"No.533, 108 Bus Stop,Vijaylakshmi Arcade,Ganganagar ( R.T.Nagar ) Bangalore - 560032, Karnataka",560032,080-39207950,,13.0251833,77.5920609
+Essential Hospital,"#42, 7Th Block, 2Nd Stage Nagarabhavi Ring Road",560072,080-23210410,080-23210047,12.974865,77.5096312
+Rangadore Memorial Hospital,"1St Cross, Shankarpuram, Basavanagudi",560004,080-26983300,080-26621645,12.9539883,77.57115092
+Gunasheela Surgical And Maternity Hospital,"No.1/B, Dewan. N. Madhav Rao Road. Balgalore, Opposite Krishna Rao Park",560004,080-26673585,080-26670379,12.9403012,77.5764705
+Sri Shankara Cancer Hospital And Research Centre.,"1St Cross, Shankarapuram, Basavanagudi, Near Shankarmutt",560004,080-26981046,080-2660832,12.9542624,77.5709473
+Bharathy Hospital,"#4, Nagarabhavi Main Road, Prashanth Nagar",560079,080-23485759,080-23489238,12.9761294,77.5326369
+Abhishek Nethradhama,"Mosque Complex, Opp Rajkamar Talkies, Fort Road",561203,080-40933219,080-40933219,13.0927718,77.5848154
+Vasan Eye Care Hospital-Banaswadi,"No 205-4C,4Th Cross, 3Rd Block, Hrbr Layout, Near Hennur Bus Depot, Banaswadi, Bangalore - 560043, Karnataka",560043,080-39890600,080-25443380,13.0241341,77.6335546
+Apple Hospital,#32 Maruthi Complex M S Nagar Bus Stop Banaswadi Main Road,560033,0484-2360798,0484-40915314,13.103924,77.5837862
+Mediscope Hospital,"# 11, Pillana Garden 3Rd Stage 3Rd Stage",560045,080-25462301,080-25490165,12.9994472,77.6162584
+Vasan Eye Care Hospital Jayanagar,"4Th Block, Diagonal Rd, Jayanagar IV Block, Bangalore 560011, Karnataka",560011,080-39890500,080-30414200,12.9292015,77.5819811
+Citi Hospital,"Gandhi Circle, Vartur,",560087,080-28538330,080-28538330,12.9956506,77.5510696
+Spandana Hospital And Medical Centre,"No. 206, 1St Main Road, Akallappa Layout, Rammurthynagar",560016,080-42049280,,13.0112166,77.6743939
+Brinda Hospital,"No-4, 5Th Block, 2Nd Stage, Bagarbhavi",560072,080-23810101,080-23810102,12.978053,77.5115959
+Dr Sailaja'S Super Speciality Eye Hospital,"No. 21,22, 1St Floor Horamavu Main Road",560043,080-42177555,080-42170555,13.0276736,77.6614188
+Sakra World Hospital,"52/2 & 52/3, Devarabeesanahalli, Varthur Hobli, Opp Intel, Outer Ring Road Marathahalli",560103,080-49694969,080-49694900,13.0239711,77.64658951
+Athreya Hospital,"6/2, Opp. Suryanagara, Phase-1, Chandapura",560081,080-27832783,080-27838384,12.7945637,77.7068165
+Annayya Healthcare Pvt Ltd,"#14,14Th Main, Hsr 5Th Sector, Koramangala",560102,080-40928686,080-40928686,12.9182603,77.6381293
+Drishti Eye Hospital,"1St Floor,Ncm Complex,B.B.Road,Devanahalli",562110,080-27683838,,13.2936599,77.5423072
+People Tree Hospitals,"#2, Tumkur Road",560022,080-49599999,080-49599911,13.028287,77.53914957
+Columbia Asia Hospital - Whitefield,"Survey No. 10P&12P, Ramagondanahalli, Whitefield",560066,080-61656666,,12.95825925,77.74539154
+Devagiri Hospital,"#2461, 24Th Cross,",560070,080-26980555,080-26980555,12.924153,77.565797
+Medstar Speciality Hospital,"No-2270, Maruthi Plaza, Kodigehalli Main Road,",560092,080-41127524,8040956535,13.058128,77.5860405
+Abhishek Nethradhama,"Hig-2024, 3Rd B Cross, 'B' Sector, Icici Bank Road",560064,080-40933219,080-40933219,13.0927718,77.5848154
+Manasa Hospital,"Opp. To LIC Office,D-Cross Main Road,Doddaballapur",561203,080-27622162,080-27622162,12.968821,77.5246297
+Navachethana Hospital,"#17/A2, Doddaballapura Road, New Yelahanka New Town",560064,080-42480137,,13.10361255,77.58379865
+Motherhood (Unit Of Rhea Healthcare Pvt Ltd),"514/1-2-3, Kaikondara Village, Opp Total Mall, Sarjapur Road",560104,080-42666000,,12.9784409,77.6375845
+Regal Hospital,"#30, Cmr Complex, Chokkanahalli, Hegde Nagar Main Road",560064,8884048888,,13.0830463,77.6347174
+Oswal Hospital,"Coronation Road, Bangarpet, Kolar Dist.",563114,08153-255481,08153-254212,12.9925357,78.1779747
+M/S Somayaji Hospital,"P.O. Jodamarga, B.C. Road, Bantwal Taluk, Dakshina Kannada Dist.",574219,08255-232268,08255-232487,12.882498,75.0317995
+Vijaya Hospital,Mahatma Gandhi Bhavan Behind Hotel Sanman College Road,590001,0831-2431336,,15.8742949,74.5144393
+Gizare Maternity Hospital,"#1171, Shivaji Road",590002,0831-2425944,0831-2420398,15.854455,74.510986
+Belgaum Cancer Hospital Pvt Ltd,"#9666A-2/D, Ashok Nagar",590010,0831-2472770,0831-2473638,15.8723523,74.5277323
+Sri Sankalp Hospital& Eye Care Centre,"Deshmukh Road, Near 1St Rly Gate Tilakwadi",590006,0831-2466623,,15.8374387,74.5020944
+Vasan Eye Care Hospital,"3413 Anant Plaza Samadevi Galli Belgaum - 590001, Karnataka",590001, 0831-4089000,0831-4205589,15.8671239,74.5101866
+Shakti Nursing Home,"Paruathi Nagar, Talur Road",583103,08392-266532,,15.1543964,76.9280572
+K.L.S. Hospital,"16/06, I.S.R. Road, Hospet",583201,08394-227789,08394-228170,15.2736518,76.3856193
+Madhuri Nursing Home,"#434, Moka Road, Gandhinagar",583103,08392-255002,08392-254338,15.156648,76.94087865
+Dr.S.K.Panduranga Rao Hospital,"#139, Kalamma Street",583101,08392-275224,08392-277322,15.1489687,76.935904
+Bhadra Nursing Home,Gandhinagar,577301,08282-266613,08282-266613,13.8482445,75.7085346
+Guru Nanak Hospital,Gurdwara Sri Nanak Jhira Saheb,585402,08482-228247,08482-220455,17.9275125,77.50957724
+Prayavi Hospital,"Beside Telegraph Office, Opp. Udgir Road, Off Udgir Road",585401,08482-220741,08482-221427,17.9174736,77.5175062
+Kamtikar Hospital,"8-10-204, Ganesh Maidan",585401,08482-225825,08482-225825,17.916099,77.5139312
+Shree Hospital,"#8-10-57/58/59, Behind Akkamahadevi College",585401,08482-227444,,17.9192848,77.5102238
+Apex Hospital,Opp Ganesh Maidan,585407,08482-225095,,17.9158657,77.5121498
+Dr. Bidari'S Ashwini Hospital,B.L.D.E. Road,586103,08352-261128,,16.8400987,75.7172679
+Choudhari Hospital,"Shikharakhana Road, Near Lic Office",586104,08352-243727,08352-254172,16.8302591,75.7292737
+Anugraha Eye Hospital,"Navabhag Main Road, Behind Central Bus Stand",586101,08352-220646,,16.8244503,75.7123791
+Lakshmi Sreenivasa Nursing Home,"Somaguddi Road, Near T.B",577522,08195-250953,08195-250024,14.3107913,76.6451675
+Sri Manjunatha Hospital,"D.B.M. Road, Chihkbellapur",562101,08156-273110,,13.4333058,77.7298111
+Manasa Hospital,"B.B.Road, Chickballapur",562101,08156-275313,08156-272287,13.4339429,77.7306473
+Ashraya Hospital,P B No 77 Naidu Streetchikmagalur,577101,08262-230574,0826-2228378,13.3154597,75.7733901
+Annapurna Hospital,K.M. Road,577101,08262-230426,08262-236426,13.3118616,75.7699893
+Deepa Nursing Home,Chikmanglur,577101,08262-235595,,13.316274,75.7760632
+Balaji Nursing Home,"T.B. Road, Kadur",577548,08267-221320,08267-223823,13.5533495,76.011081
+Vaatsalya Hospital,"Ratnagiri Road, Opp Renukacharye Kalyan Mantap",577101,08262-235683,08262-231183,13.330061,75.773015
+Holy Cross Hospital,"Housing Board Colony, Jyothinagar",577102,08262-220431,08262-220017,13.3385935,75.8035569
+Vasuda Hospital,"B.H. Road, Tarikere, Beside Ksrtc Bus Stand",577228,08261-222272,,13.7083976,75.8195432
+Ashirvad Hospital,Rathnagiri Road,577101,08262-235676,08262-230287,13.32660015,75.77212027
+Krishna Nursing Home,"Lakshmi Bazar, Near State Bank Of Mysore",577501,08194-221653,08194-224391,14.2242638,76.4003581
+Udaya Nursing Home,J.C.R. Extension Main Road,577501,08194-230269,08194-230046,14.2295599,76.4037082
+Suneetha Nursing Home,"Opp A.I.R Station, C.K.Pura, Kelagote",577501,08194-224229,08194-228338,14.2245966,76.4110923
+Sri Thirumala Hospital,"Shanhinagar Behind Lic Office, Challakere",577522,08195-223692,08195-223692,14.3163453,76.6462751
+Ashwini Hospital,"Nh-48, Nellyady, Dakshina Kannadadakshina Kannada",574229,08251-254683,08251-254683,12.8307703,75.4132301
+Pushparaj Hospital,"Main Road, Kalladka,  Dakshina Kannada`",574222,08255-275213,08255-275213,12.8447745,75.0709292
+Ashraya Hospital,"No.1977/1 & 2, Mcc 'A' Block, Shamanur Road, Davanagere",577004,08192-224679,08192-224294,14.45688515,75.9086843
+Kadli Ningamma Memorial Hospital,Mcc B. Block Ii Nd Maindavanagere,577004,08192-272620,08192-221777,14.453509,75.9149855
+Latha Nursing Home,"9Th Cross, 2 Main, P J Extensionp.J. Extention",577002,08192-253320,08192-231082,14.4600107,75.9182825
+Ravi Nursing Home,"# 136, Mahaveer Roaddavanagere",577001,08192-277750,08192-275094,14.4697481,75.9246522
+Shilpa Diagnostics Pvt Ltd & Hospital,"# 2972/A-4, M.C.C. B Block, Near Swimming Pool",577004,08192-221638,08192-222355,14.4547837,75.9127531
+Sri Ramakrishna Nursing Home,"757/35, 8Th Main, P.J.Extn",577002,08192-234286,08192-259262,14.4615605,75.9259665
+Apoorva Hospital,"3Rd Main Road, 9Th Cross, J.P. Extention",577002,08192-256714,08192-256714,14.4570296,75.9190598
+Suchetana Hospital,"3Rd Main, P.J.Extention",580002,08192-230203,,14.4586009,75.9192249
+Ashwini Nursing Home,"Akka Mahadevi Road, A.V.K.College Road, P.J.Extension, Near Bapuji Corporation Bank",577002,08192-2558707,,14.4613859,75.9179903
+Madhavi Hospital,"4Th Main, M.C.C. A Block, Church Road",577004,08192-221274,,14.4610664,75.9119942
+Gurunath Hospital,K.R. Road,577001,08192-653797,,14.4703623,75.9251967
+Anugraha Hospital,"# 2698, 2Nd Main, 2Nd Cross, M.C. B Block",577004,08192-222292,08192-221777,14.4593996,75.9189954
+Mruthyunjaya Memorial Eye Hospital,"#424, 4Th Main, 8Thcross, P.J.Extension Badagi Shettar School Opposite Road",577002,08192-270226,08192-256488,14.4601268,75.9161979
+Drishti Speciality Eye Clinic,"280/2, 4Th Main, P.J.Extension",577002,08192-251584,08192-251584,14.459819,75.917472
+Nayana Super Speciality Eye Hospital & Research Center,"#2685/2A-2B Dental College Road 1St Main M.C.C. ""B""Block",577004,08192-222289,08192-222289,14.4557185,75.9145396
+Mavintop Hospital,"3348/A1, Shamanur Road, Opp: Veerabhadreswara Temple",577004,08192-222266,08192-222266,14.4538908,75.9052947
+Vasan Eye Care Hospital-Davangere,"No 336/1-2-3, C G Hospital Road, 9Th Division 5Th Ward, P J Extension, Davanagere - 577002, Karnataka",577002,08192-398900,08192-300944,14.4587386,75.9188882
+Shreeya Hospital,"P.B.Road, Irkal Complex",580008,0836-2443515,,15.4597399,75.0068378
+Naregal Nursing Home,Siddarudhmath Road,580024,0836-2211889,,15.3349393,75.1217973
+Spandana Hospital,"Malaprabha Complex, Saptapur",580001,0836-2771191,0836-2771194,15.4507149,74.9947759
+Vasan Eye Care Hospital Dharwad,"Bikkannawar Building,Opp Hotel Hoysala Pb Road Dharwad - 580001, Karnataka",580001,0836-0836 3989000,0836-2441222,15.463089,75.0087489
+Janatha Nursing Home,"Senigarapet, Beside Sowndarya Mahal Theater, Behind Old Bus Stand, Bangalore Rural",561203,080-7622005,080-7622005,13.2939411,77.5427619
+Sanjeevini Hospital,K.C. Rani Road,582101,08372-236044,,15.432161,75.641249
+Hosmath Hospital,"K.C. Rani Road, Masari",582101,08372-235442,08372-235678,15.4314887,75.6403515
+Vaatsalya Hospital,"Masari, Vivekanada Road",582101,08372-252399,,15.432985,75.6452425
+Patil Eye Hospital,192 1B 1 Floor Court Road,500001,08332-229100,08332-229101,16.1641172,74.8226666
+Khaja Bandanawaz Teaching & General Hospital,Main Road,560075,08472-223458,08472-231694,17.3261257,76.833681
+Kamal Eye Hospital,"10-105/14, Sharannagar, Brhamapur",585103,08472-222125,,17.3333776,76.82920465
+Medicare Multispeciality Hospital,"Darga Road, Sangtrashwadi Opp Old Employment Office",585101,08472-262524,,17.3372802,76.8441376
+Tipu Sultan Maternity And General Hospital,"Tipu Sultan Unani Medical College And Hospital, Millat Nagar, Ring Road",585104,0847-2322992,0847-2268273,17.3585389,76.8547592
+V.A.M Hospital,"Ooty Mysore Road, Mysore Dist",571111,08229-222300,08229-22300,11.8173778,76.6846776
+Dange Hospital,"M.G. Road, Near Adichundhangiri School",573201,08172-265236,08172-265236,13.01609405,76.10600755
+Jayashree Nursing Home,"#973, 4Th Cross, K.R. Puram",573201,08172-269128,08172-252770,13.0063532,76.1083822
+Lakshmi Nursing Home,"Govt College Road, Near Ncc Office",573201,08172-265578,,13.0152386,76.1023088
+Shivara Shivappa Memorial Hospital,Opp Shankar Mutt Roadk.R. Puram,573201,08172-234414,08172-260436,13.0053492,76.1064662
+Sharada Nursing Home,Shankar Matt Road,573201,08172-269762,,13.0043108,76.1065395
+Rajeev Hospital,"Govt. Hospital Road, K.R.Puram",573201,08172-251770,08172-265505,13.0043905,76.1058381
+Hemavathi Hospital,"Near Saljedi Theater, Northern Extension",573201,08172-261204,08172-261204,13.0106682,76.09700627
+Mangala Hospital,Sampige Road Kr Puram,573201,9620727143,08172-260897,13.0047689,76.1075614
+Mani Speciality Hospital,"#252, Samplge Road, K.R.Puram",573201,08172-260034,08172-232551,13.0064877,76.1071285
+Ravi Nursing Home,Road,577501,08194-224023,08194-224023,14.2219987,76.390409
+M.M. Joshi Eye Institute,"Hosur Corner, Gokul Road",580021,0836-2228431,0836-2375933,15.35318405,75.13063885
+Shivakrupa Hospital,"Bembalgi Complex, Sir Siddappa",580021,0836-2350448,,15.3527442,75.1440817
+Vasan Eye Care Hospital,"Near Court Circle, Hubli - 5800029, Karnataka",580029,0836-4269666,0836-4261222,15.3531005,75.1393014
+City Clinic,Madhavpur,580020,0836-2363137,0836-2365505,15.3493206,75.1402434
+Tatwadarsha Hospital,"M.T. Sagar, Near Shreyanagar, Unkal-Heggeri Road, Opp. Ksrtc Depot, Gokul Road",580030,0836-2234465,0836-2370486,15.35604785,75.11810886
+Karkala Nursing Home,# 143/ Iv Main Road,574104,08258-230446,08258-230190,13.2149421,74.9960681
+Brahma Nursing Home,Nadangadda,581304,08382-225317,,14.8320129,74.1436306
+Akshaya Nursing Home,3Dr Cross Gowripet,563101,08152-222938,,13.133858,78.1339905
+Manjunatha Health Care,Behind Snr Hospital,563101,08152-223151,,13.1291353,78.1353852
+New Kamadhenu Nursing Home,Sharada Takies Road.Near Ksrtc Bus Stand,563101,08152-222487,,13.1343869,78.1290056
+Sanjana Hospital,"Maruthi Extension, Malur",563130,08151-234223,08151-234223,13.0032131,77.9399689
+New Kolar Nursing Home,"2Nd Cross, Kuvempunagar",563101,08152-220827,08152-224700,13.1359894,78.1280588
+Suguna Nursing Home,"Antharaganga Road, 1St Cross",563101,08152-224555,08152-226574,13.1362232,78.1281982
+Shankar Eye Hospital,"G.T. Street, Cotton Pet, Near Syndicate Bank",563101,08152-224666,,13.1331841,78.1322725
+Dr.Nukapur Hospital,"Sharada Talkies Road, Near Ksrtc Bus Stand",563101,0815-2320444,0815-2401764,13.135509,78.1292246
+Holy Cross Hospital,"Kamagere, Chamarajnagar",571443,08224-263116,08224-263348,12.1295151,77.2336641
+Archana Hospital,"K.R. Road, Ashok Nagar",571401,08232-224092,08232-224092,12.52419055,76.89745215
+Kaveri Nursing Home,"#1132, 3Rd Main, 1St Cross, Ashoknagar",571401,08232-230368,08232-223168,12.5267842,76.8963361
+Mamatha Nursing Home,General Hospital Road Near Medical College,571401,08232-225150,08232-225225,12.5270801,76.8989145
+Nandini Nursing Home,"# 1586, K.R. Road",571401,08232-225114,08232-225114,12.5257256,76.8951843
+Pragathi Hospital,"G.H.Road, Ashok Nagar",571401,08232-224321,08232-221718,12.5232166,76.8990225
+Seva Nursing Home,"#1465, 100Ft Road, Ashok Nagar",571401,08232-220636,,12.5218119,76.8959807
+Adichunchanagiri Hospital & Research,"Balagangadharanatha Nagara, Nagamangala Taluk, Dist, -Nagamangala Taluk, Dist",571448,08234-287011,08234-287344,12.9663258,76.7212509
+Krupa Nursing Home,"#2050/A, Ii Cross Road, Subashnagar",571401,08232-206013,08232-309360,12.5255762,76.8876715
+Ravi Nursing Home,"1512, Ashok Nagar, Hospital Road",571401,08232-223773,,12.5222885,76.89897
+Ramakrishna Nursing Home,"#1596/A, 1St Cross, Ganapathi Temple Street",571401,08232-224941,08232-224941,12.5236998,76.89264
+Colaco Hospital,"Lower Bendore Main Road, Dakshina Kannada",575002,0824-2434404,0824-2434404,12.8727086,74.85651046
+Indira Hospital,"Falnir Road Opp St Mary'S School, -South Canara",575002,0824-2431222,0824-4260888,12.8680582,74.8500681
+K.M.C Hospital,Attavar,575001,0824-2445858,0824-2442946,12.8717224,74.8484812
+Tejasvini Hospital,"Kadri Temple Road, 575 002",575002,0824-2880100,0824-2225998,12.8804104,74.8537347
+Vijaya Clinic General Hospital,Bunts Hostel Road,575003,0824-2444818,0824-2444819,12.8760085,74.8480497
+Vijaya Clinic Maternity & Surgical Nursing Home,Kadri Kambla Road,575004,0824-2217877,0824-2217427,12.8809072,74.8531285
+Jayashree Nursing Home,K.S.Rao Road,575001,0824-2440263,0824-2410887,12.87226035,74.84280893
+Prathiba Eye Hospital,"Kadri Road, Opp Syndicate Bank",575003,0824-2224460,0824-2225060,12.8790416,74.8519879
+Nayana Nethralaya Eye Hospital,Brigade Plaza Pm Rao Road Opp St.Alyosious School Karangalpady,575003,0824-2491716,0824-2491716,12.8760713,74.8451892
+Indiana Hospital And Heart Institute Ltd,"Mahaveer Circle, Pumpwell, Kankanady P.O",575002,0824-28802880,0824-28802880,12.8676798,74.8664233
+Prasad Netralaya,"Shree Krishna Prasad Building, M.G.Road, Lalbagh",575003,0824-4280199,0824-4280199,12.886325,74.8382235
+Kasturba Hospital,"Post Box No.7, Madhav Nagar",575119,0820-2923069,0820-2571934,13.3538104,74.7900929
+Basappa Memorial Hospital,"22-B, Vinobha Road",570012,0821-2511771,0821-2414471,12.320693,76.62040661
+Apollo B.G.S Hospitals,"Adichunchanagiri Road, Kuvempunagar",570023,0821-2466018,0821-2461082,12.2959168,76.63244604
+Cauvery Hospital,"# 756, New Kantharaje Urs Roadsaraswathipuram",570009,0821-2341900,0821-2342113,12.3053048,76.69590642
+Chitra Hospital,"25/1A, Irwin Rd",570001,0821-445954,0821-2520626,12.3144454,76.6552249
+Indira Nursing Home,"436, Vijayanagar Railway Layout, Surya Bakery Road",570016,0821-2303707,0821-2303707,12.3419968,76.6175574
+Karuna Hospital,"#671/B Nrupatunga Road, M Block 2Nd Stage, Kuvenpunagar. -Nrupatungd Road, Kuvempunagar",570023,0821-561269,0821-2561269,12.2797607,76.6253639
+Murthy Eye Hospital,"# 25, 1St Main Road, T.K. Layout, -, Near Maruthi Temple",570009,0821-2544852,0821-2544852,12.3019925,76.6201584
+Nanjamma Javaregowda Hospital,"#2265, 4Th Main Road, Vijayanagarvinayakanagar",570012,0821-2515609,0821-2510485,12.3174159,76.62824725
+Netra Jyothi Eye Hospital & Phaco Cataract Surgery Centre,"#1027, Panchamantra Road, Opp Sangeetha Mobile Shop, (Near Sbi), Kuvempunagar",570023,0821-2561544,0821-2561544,12.2882524,76.6269171
+Raman Memorial Hospital,"1498 Ramaiyer Road, Krishnamurthy Puram",570004,0821-2332381,0821-2331094,12.2922659,76.6422933
+Sushrutha Eye Hospital,"No.313, Dewans Road, Besides Mairmallappa'S College",570024,0821-2427070,0821-4243611,12.306409,76.6455915
+Usha Kiran Eye Hospital,"#877/1, Deewans Road, Lakshmipuram",570004,0821-2334777,0821-244222,12.2982394,76.6443821
+Priyadarshini General Hospital,"No:13, 7Th Main, Brindavan Extension 4Th Cross",570020,0821-5533799,0821-2511832,12.342081,76.6333455
+Mythri Hospital,"No.2818-K13, N.S.Road, Chamundipuram",570004,0821-4259526,0821-4259526,12.2902204,76.6494012
+Ramakrishna Hospital,"#1120/F58B, 1St Main, Jlb Road, Vidyaranyapuram",570008,0821-2486734,0821-4289603,12.308723,76.616929
+Kamakshi Hospital,Kuvempunagar,570009,0821-2545981,0821-2341981,12.2996726,76.62367805
+Bhagwan Mahaveer Darshan Eye Hospital,"Opp. K.R. Mills, Bangalore Road, Siddalingapura",570003,0821-3204001,0821-3204001,12.35966085,76.66066056
+Pragati Visions (Super Speciality Eye Hospital),"1-E, -Mercara Road, Hinkal",570017,0821-4008800,0821-4008899,12.3245891,76.6099298
+St.Joseph'S Hospital,"#176, Bannimantap",570015,0821-4003900,0821-4003999,12.31948185,76.62356163
+Sri Srinivasa Hospital,"#03, Mahadevapura Double Road, Udayagiri",570019,0821-2456114,0821-2456262,12.3245957,76.6768898
+Cauvery Hospital,"Terission College Road, Bannur Road, Shidharthnagar",570011,0821-2425000,0821-4253968,12.3053048,76.69590642
+Columbia Asia Hospital,"85-86, Bangalore Ring Road, Junction, Bannimantap A Layout, Siddiqui Nagar",570015,0821-3989896,0821-3322301,12.3500467,76.6606548
+Supriya Hospital,"#1138, Ring Road, Signal Hinkal",570017,0821-4247026,,12.3336069,76.5995692
+Vikram Jyoth,"No-2207, New No-22, 22/1, Temple Road, V.V. Mohalla, Next To Corporation Bank",570012,0821-4242461,0821-4240303,12.3247991,76.6320872
+Vasan Eye Care Hospital,"#966/2,Jlb Road,Lakshmipuram,C.H.Mohalla ,Mysore - 570004, Karnataka",570004,0821-3989000,0821-4287754,12.2961867,76.64366325
+Bhanavi Hospital,"#P2, Anikethana Road, E&F Block, Kuvempu Nagar",570023,9663371212,0821-4253400,12.29274065,76.62715985
+Brindavan Hospital,"No.64&64/1, 3Rd Cross, Jayalakshmipuram",570012,0821-4000782,0821-4000782,12.3229091,76.62684841
+Vishwas Hospital,"Cts No, 3352/1, Near Telephone Exchange",591237,08338-220845,,16.4006726,74.3785532
+Mahaveer Medical Centre,"Main Road, Dakishna Kannada",574201,08251-234525,08251-234782,12.7652719,75.1960964
+Pragathi Speciality Hospital,Main Roadbolwar,574201,08251-231026,08251-236326,12.7677484,75.196183
+Chetana Hospital,"Near Mahamaya Temple, Puttur",574201,08251-231901,08251-231247,12.759244,75.2014884
+M.K.Bhandari Hospital,"Near Gunj, Goshala Road",584101,08532-235611,08532-235046,16.2157434,77.3549536
+Sai Krishna Hospital,"Sindanur Road Opp Ayurvedic College Manvi (Tq), Opposite Hill",584123,08538-221029,08538-221029,15.9991462,77.0410761
+Annadaneshwara Hospital,"Hahe Road, Sindhanur",584128,0853-5220945,,15.7680284,76.7498325
+Balanku Hospital,"Near Basavana Bhavi Chowk, Basavanagara",584102,08532-236893,08532-236894,16.2114964,77.3600015
+Mallikarjuna Nursing Home,"Hotel Jewel Rock Road, Durgigudi",577201,08182-223580,08182-220552,13.9363112,75.5689162
+Subbaiah Hospital,"S.R. Road, (Jail Road)",577201,08182-226450,08182-277505,13.9405219,75.5685273
+Usha Nursing Home,Savalanga Road Ravindranagarravindra Nagar,577201,08182-223522,08182-220155,13.9455304,75.5741354
+Vivekananda Hospital And Maternity Home,"Thilak Nagar, Main Road",577201,08182-224350,08182-278420,13.9373681,75.5744496
+Anuradha Nursing Home,"1St Cross, Raghavendra Extension, Thirthahalli",577432,08181-228238,08181-227238,13.6957162,75.2440329
+Swathi Ent Hospital,"Sowlanga Road, Near Railway Gate, City",577204,08182-220491,,13.948252,75.5743168
+Meena Nursing Home,"T.K. Road, Bhadravathi",577301,08282-266665,08282-265505,13.8447594,75.710044
+Sahyadri Hospital,"Old Thirthahalli , Road.Shiva",577202,08182-222758,08182-2221455,13.9286588,75.5730978
+Sharavathi Nursing Home,B.H. Road,577201,08182-223560,08182-222496,13.9309601,75.5798905
+Nirmala Hospital,Shathaveri Gopalgowda Marg,577201,08182-223727,08182-228399,13.9445152,75.569051
+Sagar Nursing Home,"Achuth Rao Layout, Near Jail Circle",577201,08182-224970,,13.9390511,75.5700776
+Malnad Hospital & Institute Of Oncology,"9Th, Maile Stone, Opp Bidare Bus Stop, Nidige Po, B.H. Road",577222,08182-246800,08182-246724,13.8876825,75.6421284
+Sindhu Urology Hospital,"Rmr Road, Durgigudi, Behind Nanjappa Hospital, Kuvempu Road",577202,08182-275314,,13.9376454,75.5713101
+Nayana Hospital,"T.K. Road, Bhadravathi",577301,08282-267665,08282-267665,13.8465166,75.7068986
+Sadhana Eye Hospital,"Rathnamma Madhava Rao Road, Durgigudi",577201,08182-274155,08182-274155,13.9375972,75.5711317
+Chandini Hospital,"Chamarajpet, Sagarshivamogga",577401,08183-220771,,14.1671995,75.0237599
+Onkar Hospital,"1St Parallel Road, Durgilgudi I",577201,08182-224003,,13.9370622,75.5697142
+Sankara Eye Hospital,"Harakere, Thirthahalli Main Road",577202,08182-222099,08182-222101,13.9035861,75.56053132
+Vasan Eye Care Hospital-Shimoga,"H E Commercials, Kuvempu Road, Shimoga - 577202",577202,08182-398900,08182-300033,13.9386494,75.57085142
+Kaumudi Nursing Home,"Hospet Road, North Canara",581401,08384-229557,08384-22-557,14.6214788,74.8329288
+Marikamba Hospital And Diagnostic Centre,Devikere Circle .Veer Savarkar Road,581401,08384-228132,08384-226003,14.621009,74.8315421
+Shripad Hegde Kadave Institute Of Medical Sciences,Mes College Road,581402,08384-234833,08384-238379,14.6322453,74.8485365
+Kripa Nursing Home,"K.H.B. Colony, -Uttara Kannada",581402,08384-238282,08384-235733,14.629897,74.849937
+Jyothi Hospital,"Jyothi Circle Main Road, Daxina Kannada",574239,08257-230411,08257-231252,12.5651411,75.3898746
+Jenukal Nursing Home,Railway Station Road,572201,08134-255226,08134-253079,13.257331,76.476903
+Shridevi Hospital,1St Cross M.G Road,572101,0816-2255370,0816-2273344,13.3392288,77.1045572
+Akshay Hospital,"2Nd Cross, Ashoknagar",572102,0816-2251082,,13.3353753,77.1178959
+Jayashree Nursing Home,"#30, K.R. Extention, 1St Cross, Behind Ram Mandir",572101,0816-2274747,0816-2251243,13.3391648,77.1072368
+Mookambika Modi Eye Hospital,"3Rd Main, Shankarpuram. B H Road",572102,0816-2254400,0816-2254499,13.3405863,77.1106044
+Bharathi Hospital,"4Th Cross, Barkline Road, K.R. Extension, 4Th Cross",572101,0816-2254438,0816-2279876,13.3397324,77.1098828
+Aruna Hospital,Dr.Radhakrishan Road,572102,0816-2276408,0816-2255934,13.3375375,77.1087348
+Bapuji Nursing Home,"1St Cross, Someshwar Puram",572102,0816-2271628,0816-2273830,13.3335119,77.1100475
+Vinayaka Hospital,"1St Main, Ashoka Nagar, Opp Government College",572103,0816-2254231,0816-2255626,13.3370709,77.1178763
+Vijaya Hospital,"Kunigal Road, Near Banashankari Temple",572101,0816-2257762,,13.3325866,77.0959957
+Kasturba Hospital,"S.S. Puram Main Road, Tumkur",572102,0816-4021685,0816-2255199,13.3322772,77.1128231
+Srinivasa Nursing Home,"B.H.Road, Shivakumar Swamy Circle",572103,0816-2278136,,13.337606,77.1175171
+B.Siddaramanna Hospital,"Opp Ib Railway Station Road, Gandhi Nagar,",572102, 0816-2270278,0816-2275559,13.3354144,77.1017115
+Ganadhal Ent & Dental Hospital,"#17, New Gms Complex, Ashoka Road",572101,0816-2271225,0816-2271225,13.331756,77.1111616
+Dr Mahadevappa Eye Laser Hospital,"15Th Cross, S.S. Puram, (Horticulture Office Road)",572102,0816-2275836,0816-2275836,13.3348872,77.1101698
+Charaka Hospital,"No-5, 2Nd Main Shankarapuram, B.H Road",572102,0816-2255545,0816-2255545,13.3369895,77.1170309
+Goutham Hospital,"Water Tank Road, Behind R.T.O Office, Vidyanagar",572103,0816-2280252,0816-2280252,13.339,77.113869
+M.C. Orthopaedic Arthroscopy & Joint Replacement Centre,"2Nd Cross, Ashok Nagar, Dibhi Ghat Road,",572102,0816-4014297,0816-4014297,13.3338461,77.1172817
+J.M.J. Diagnova Hospital,"Church Road, Udupi",576101,0820-2524180,0820-2523396,13.3373118,74.7489327
+Lalith Hospital,"12-1-24-2A, K.M, Marg, Udupi",576101,0825-2529817,0825-2536298,13.3396727,74.74828384
+Mahesh Hospital,"N.H.17, Brahmavara. Taluk, Udupi",576213,0820-2563956,0820-2505256,13.4319768,74.7431245
+Adarsha Hospital Udupi,"Near K.S.R.T.C Bus Stand, Udupi",576101,0820-2535289,0820-2536580,13.3400479,74.747338
+Sri Manjunatha Hospital,"Main Road, Kundapur, Near Old Bus Stand",576201,08254-230515,08254-234768,13.6320247,74.6899456
+Mahalaxmi Eye Clinic & Laser Centre,"Andrade Arcade, 1St Floor, Opp Syndicate Bank, K.M. Marg, Udupi",576101,0820-2523909,0820-2536298,13.3359202,74.7466341
+C.S.I. Lombard Memorial Hospital,"Mission Hospital Road, Udupi",576101,0820-2527455,0820-2527455,13.329745,74.749151
+Dr.A.V.Baliga Memorial Hospital,"6Th Main, V.M Nagar, Doddanguddi, Udupi",576102,0820-2535299,0820-2526549,13.3595038,74.7624175
+Pranav Hospital,"N.H.17, Brahmavara, Udupi",576213,0820-256299,0820-2562999,13.4417008,74.7431096
+Prasad Netralaya,"# 21-4-2A 1, A.J Alse Road Behind Alankar Theatre, Udupi",576101,0820-2527956,0820-2593325,13.33917,74.7467682
+Manjunatha Eye Hospital,"Door No. 11-1-53, Bannanje,",576101,0820-2522122,,13.3435049,74.7474562
+Benaka Health Centre,"Main Road, Ujire",574240,08256-236742,08256-237847,12.9962189,75.3216869
+Athreya Hospital,"Gonikoppal Road Opp, Kstrc Bus Stands.Kodagu",571218,08274-257483,08274-257783,12.1966985,75.8054361
+BGS Gleneagles Hospitals,"67, Uttarahalli Main Rd, Sunkalpalya, Bengaluru, Karnataka",560060,08527306331,,12.90302742110326,77.49746282401954
