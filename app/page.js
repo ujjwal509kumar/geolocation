@@ -4,15 +4,16 @@ import Papa from 'papaparse';
 
 export default function Home() {
   const [userLocation, setUserLocation] = useState(null);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [nearestLocation, setNearestLocation] = useState(null);
   const [locations, setLocations] = useState([]);
   const [mapUrl, setMapUrl] = useState('');
 
-  // Get user's current location on component mount
-  useEffect(() => {
+  // Function to fetch the user's location when the button is clicked
+  const fetchUserLocation = () => {
     if (navigator.geolocation) {
+      setIsLoading(true);
       navigator.geolocation.getCurrentPosition(
         (position) => {
           const userLoc = {
@@ -31,9 +32,8 @@ export default function Home() {
       );
     } else {
       setError('Geolocation is not supported by this browser.');
-      setIsLoading(false);
     }
-  }, []);
+  };
 
   // Load CSV file automatically on mount
   useEffect(() => {
@@ -123,6 +123,18 @@ export default function Home() {
         </header>
         
         <div className="max-w-2xl mx-auto space-y-8">
+          {/* If the user hasn't granted location access yet, show the button */}
+          {!userLocation && !isLoading && !error && (
+            <div className="flex flex-col items-center justify-center h-64">
+              <button 
+                onClick={fetchUserLocation}
+                className="px-6 py-3 bg-indigo-600 text-white font-bold rounded-lg hover:bg-indigo-700 transition-colors"
+              >
+                Grant Location Access
+              </button>
+            </div>
+          )}
+
           {isLoading ? (
             <div className="flex flex-col items-center justify-center h-64">
               <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-indigo-500"></div>
@@ -133,7 +145,7 @@ export default function Home() {
               <p className="font-bold">Error</p>
               <p>{error}</p>
             </div>
-          ) : (
+          ) : userLocation && (
             <>
               <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
                 <h2 className="text-2xl font-semibold text-gray-800 mb-4">Your Location</h2>
@@ -141,7 +153,7 @@ export default function Home() {
                   <p className="text-gray-600">
                     <span className="font-bold">Coordinates:</span>{" "}
                     <span className="font-bold ml-2">
-                      {userLocation?.lat.toFixed(6)}, {userLocation?.lng.toFixed(6)}
+                      {userLocation.lat.toFixed(6)}, {userLocation.lng.toFixed(6)}
                     </span>
                   </p>
                   <a 

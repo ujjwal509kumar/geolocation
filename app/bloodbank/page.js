@@ -4,15 +4,16 @@ import Papa from 'papaparse';
 
 export default function NearestBloodBankFinder() {
   const [userLocation, setUserLocation] = useState(null);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [nearestBloodBanks, setNearestBloodBanks] = useState([]);
   const [bloodBanks, setBloodBanks] = useState([]);
   const [mapUrl, setMapUrl] = useState('');
 
-  // Get user's current location on component mount
-  useEffect(() => {
+  // Function to fetch the user's location when the button is clicked
+  const fetchUserLocation = () => {
     if (navigator.geolocation) {
+      setIsLoading(true);
       navigator.geolocation.getCurrentPosition(
         (position) => {
           const userLoc = {
@@ -33,7 +34,7 @@ export default function NearestBloodBankFinder() {
       setError('Geolocation is not supported by this browser.');
       setIsLoading(false);
     }
-  }, []);
+  };
 
   // Load CSV file automatically on mount
   useEffect(() => {
@@ -116,6 +117,18 @@ export default function NearestBloodBankFinder() {
         </header>
         
         <div className="max-w-2xl mx-auto space-y-8">
+          {/* Show the "Grant Location Access" button if location is not yet fetched */}
+          {!userLocation && !isLoading && !error && (
+            <div className="flex flex-col items-center justify-center h-64">
+              <button 
+                onClick={fetchUserLocation}
+                className="px-6 py-3 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors"
+              >
+                Grant Location Access
+              </button>
+            </div>
+          )}
+
           {isLoading ? (
             <div className="flex flex-col items-center justify-center h-64">
               <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-red-500"></div>
@@ -127,73 +140,75 @@ export default function NearestBloodBankFinder() {
               <p>{error}</p>
             </div>
           ) : (
-            <>
-              <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
-                <h2 className="text-2xl font-semibold text-gray-800 mb-4">Your Location</h2>
-                <div className="flex flex-col sm:flex-row sm:justify-between">
-                  <p className="text-gray-600">
-                    <span className="font-bold">Coordinates:</span>{" "}
-                    <span className="font-bold ml-2">
-                      {userLocation?.lat.toFixed(6)}, {userLocation?.lng.toFixed(6)}
-                    </span>
-                  </p>
-                  <a 
-                    href={mapUrl} 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="mt-2 sm:mt-0 text-red-600 hover:text-red-800 font-bold"
-                  >
-                    View on Map
-                  </a>
-                </div>
-              </div>
-              
-              {nearestBloodBanks.length > 0 ? (
-                <div className="space-y-6">
-                  <h2 className="text-2xl font-semibold text-gray-800 text-center">Nearest Blood Banks</h2>
-                  {nearestBloodBanks.map((bloodBank, index) => (
-                    <div 
-                      key={index} 
-                      className="bg-white p-6 rounded-xl shadow-md border-l-4 border-red-500"
+            userLocation && (
+              <>
+                <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
+                  <h2 className="text-2xl font-semibold text-gray-800 mb-4">Your Location</h2>
+                  <div className="flex flex-col sm:flex-row sm:justify-between">
+                    <p className="text-gray-600">
+                      <span className="font-bold">Coordinates:</span>{" "}
+                      <span className="font-bold ml-2">
+                        {userLocation.lat.toFixed(6)}, {userLocation.lng.toFixed(6)}
+                      </span>
+                    </p>
+                    <a 
+                      href={mapUrl} 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="mt-2 sm:mt-0 text-red-600 hover:text-red-800 font-bold"
                     >
-                      <div className="space-y-4">
-                        <p className="text-xl font-bold text-red-700">
-                          {index + 1}. {bloodBank.name}
-                        </p>
-                        <p className="text-gray-600">
-                          <span className="font-bold">Coordinates:</span>{" "}
-                          <span className="ml-2">{bloodBank.lat.toFixed(6)}, {bloodBank.lng.toFixed(6)}</span>
-                        </p>
-                        <p className="text-gray-600">
-                          <span className="font-bold">Distance:</span>{" "}
-                          <span className="ml-2">{bloodBank.distance.toFixed(2)} km</span>
-                        </p>
-                        <p className="text-gray-600">
-                          <span className="font-bold">Address:</span>{" "}
-                          <span className="ml-2">{bloodBank.address}</span>
-                        </p>
-                        <a 
-                          href={`https://www.google.com/maps?q=${bloodBank.lat},${bloodBank.lng}&z=15`}
-                          target="_blank" 
-                          rel="noopener noreferrer" 
-                          className="inline-block mt-4 px-6 py-3 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors"
-                        >
-                          View on Map
-                        </a>
+                      View on Map
+                    </a>
+                  </div>
+                </div>
+                
+                {nearestBloodBanks.length > 0 ? (
+                  <div className="space-y-6">
+                    <h2 className="text-2xl font-semibold text-gray-800 text-center">Nearest Blood Banks</h2>
+                    {nearestBloodBanks.map((bloodBank, index) => (
+                      <div 
+                        key={index} 
+                        className="bg-white p-6 rounded-xl shadow-md border-l-4 border-red-500"
+                      >
+                        <div className="space-y-4">
+                          <p className="text-xl font-bold text-red-700">
+                            {index + 1}. {bloodBank.name}
+                          </p>
+                          <p className="text-gray-600">
+                            <span className="font-bold">Coordinates:</span>{" "}
+                            <span className="ml-2">{bloodBank.lat.toFixed(6)}, {bloodBank.lng.toFixed(6)}</span>
+                          </p>
+                          <p className="text-gray-600">
+                            <span className="font-bold">Distance:</span>{" "}
+                            <span className="ml-2">{bloodBank.distance.toFixed(2)} km</span>
+                          </p>
+                          <p className="text-gray-600">
+                            <span className="font-bold">Address:</span>{" "}
+                            <span className="ml-2">{bloodBank.address}</span>
+                          </p>
+                          <a 
+                            href={`https://www.google.com/maps?q=${bloodBank.lat},${bloodBank.lng}&z=15`}
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="inline-block mt-4 px-6 py-3 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors"
+                          >
+                            View on Map
+                          </a>
+                        </div>
                       </div>
-                    </div>
-                  ))}
-                </div>
-              ) : bloodBanks.length > 0 ? (
-                <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
-                  <p className="text-yellow-600 font-bold">Finding nearest blood banks...</p>
-                </div>
-              ) : (
-                <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
-                  <p className="text-yellow-600 font-bold">Loading blood bank data...</p>
-                </div>
-              )}
-            </>
+                    ))}
+                  </div>
+                ) : bloodBanks.length > 0 ? (
+                  <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
+                    <p className="text-yellow-600 font-bold">Finding nearest blood banks...</p>
+                  </div>
+                ) : (
+                  <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
+                    <p className="text-yellow-600 font-bold">Loading blood bank data...</p>
+                  </div>
+                )}
+              </>
+            )
           )}
         </div>
       </div>
