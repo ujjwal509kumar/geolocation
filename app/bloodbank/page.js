@@ -6,7 +6,7 @@ export default function NearestBloodBankFinder() {
   const [userLocation, setUserLocation] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [nearestBloodBank, setNearestBloodBank] = useState(null);
+  const [nearestBloodBanks, setNearestBloodBanks] = useState([]);
   const [bloodBanks, setBloodBanks] = useState([]);
   const [mapUrl, setMapUrl] = useState('');
 
@@ -82,32 +82,28 @@ export default function NearestBloodBankFinder() {
     return R * c; // Distance in km
   };
 
-  // Find the nearest blood bank to the user
-  const findNearestBloodBank = (userLoc, bloodBanksList) => {
-    if (!bloodBanksList.length) return null;
+  // Find the 3 nearest blood banks to the user
+  const findNearestBloodBanks = (userLoc, bloodBanksList) => {
+    if (!bloodBanksList.length) return [];
     
-    let nearestBank = bloodBanksList[0];
-    let minDistance = calculateDistance(userLoc, nearestBank);
+    // Calculate distances for all blood banks
+    const bloodBanksWithDistances = bloodBanksList.map(bank => ({
+      ...bank,
+      distance: calculateDistance(userLoc, bank)
+    }));
     
-    for (let i = 1; i < bloodBanksList.length; i++) {
-      const distance = calculateDistance(userLoc, bloodBanksList[i]);
-      if (distance < minDistance) {
-        minDistance = distance;
-        nearestBank = bloodBanksList[i];
-      }
-    }
+    // Sort blood banks by distance
+    const sortedBloodBanks = bloodBanksWithDistances.sort((a, b) => a.distance - b.distance);
     
-    return {
-      ...nearestBank,
-      distance: minDistance
-    };
+    // Return top 3 nearest blood banks
+    return sortedBloodBanks.slice(0, 3);
   };
 
-  // Update nearest blood bank when user location or blood banks change
+  // Update nearest blood banks when user location or blood banks change
   useEffect(() => {
     if (userLocation && bloodBanks.length > 0) {
-      const nearest = findNearestBloodBank(userLocation, bloodBanks);
-      setNearestBloodBank(nearest);
+      const nearest = findNearestBloodBanks(userLocation, bloodBanks);
+      setNearestBloodBanks(nearest);
     }
   }, [userLocation, bloodBanks]);
 
@@ -115,8 +111,8 @@ export default function NearestBloodBankFinder() {
     <div className="min-h-screen bg-gradient-to-br from-red-50 to-pink-100">
       <div className="container mx-auto px-4 py-12">
         <header className="mb-12 text-center">
-          <h1 className="text-4xl font-bold text-red-800">Nearest Blood Bank Finder</h1>
-          <p className="mt-4 text-lg text-gray-700">Find the closest blood bank based on your current location</p>
+          <h1 className="text-4xl font-bold text-red-800">Nearest Blood Banks Finder</h1>
+          <p className="mt-4 text-lg text-gray-700">Find the 3 closest blood banks based on your current location</p>
         </header>
         
         <div className="max-w-2xl mx-auto space-y-8">
@@ -152,36 +148,45 @@ export default function NearestBloodBankFinder() {
                 </div>
               </div>
               
-              {nearestBloodBank ? (
-                <div className="bg-white p-6 rounded-xl shadow-md border-l-4 border-red-500">
-                  <h2 className="text-2xl font-semibold text-gray-800 mb-4">Nearest Blood Bank</h2>
-                  <div className="space-y-4">
-                    <p className="text-xl font-bold text-red-700">{nearestBloodBank.name}</p>
-                    <p className="text-gray-600">
-                      <span className="font-bold">Coordinates:</span>{" "}
-                      <span className="ml-2">{nearestBloodBank.lat.toFixed(6)}, {nearestBloodBank.lng.toFixed(6)}</span>
-                    </p>
-                    <p className="text-gray-600">
-                      <span className="font-bold">Distance:</span>{" "}
-                      <span className="ml-2">{nearestBloodBank.distance.toFixed(2)} km</span>
-                    </p>
-                    <p className="text-gray-600">
-                      <span className="font-bold">Address:</span>{" "}
-                      <span className="ml-2">{nearestBloodBank.address}</span>
-                    </p>
-                    <a 
-                      href={`https://www.google.com/maps?q=${nearestBloodBank.lat},${nearestBloodBank.lng}&z=15`}
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="inline-block mt-4 px-6 py-3 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors"
+              {nearestBloodBanks.length > 0 ? (
+                <div className="space-y-6">
+                  <h2 className="text-2xl font-semibold text-gray-800 text-center">Nearest Blood Banks</h2>
+                  {nearestBloodBanks.map((bloodBank, index) => (
+                    <div 
+                      key={index} 
+                      className="bg-white p-6 rounded-xl shadow-md border-l-4 border-red-500"
                     >
-                      View on Map
-                    </a>
-                  </div>
+                      <div className="space-y-4">
+                        <p className="text-xl font-bold text-red-700">
+                          {index + 1}. {bloodBank.name}
+                        </p>
+                        <p className="text-gray-600">
+                          <span className="font-bold">Coordinates:</span>{" "}
+                          <span className="ml-2">{bloodBank.lat.toFixed(6)}, {bloodBank.lng.toFixed(6)}</span>
+                        </p>
+                        <p className="text-gray-600">
+                          <span className="font-bold">Distance:</span>{" "}
+                          <span className="ml-2">{bloodBank.distance.toFixed(2)} km</span>
+                        </p>
+                        <p className="text-gray-600">
+                          <span className="font-bold">Address:</span>{" "}
+                          <span className="ml-2">{bloodBank.address}</span>
+                        </p>
+                        <a 
+                          href={`https://www.google.com/maps?q=${bloodBank.lat},${bloodBank.lng}&z=15`}
+                          target="_blank" 
+                          rel="noopener noreferrer" 
+                          className="inline-block mt-4 px-6 py-3 bg-red-600 text-white font-bold rounded-lg hover:bg-red-700 transition-colors"
+                        >
+                          View on Map
+                        </a>
+                      </div>
+                    </div>
+                  ))}
                 </div>
               ) : bloodBanks.length > 0 ? (
                 <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
-                  <p className="text-yellow-600 font-bold">Finding nearest blood bank...</p>
+                  <p className="text-yellow-600 font-bold">Finding nearest blood banks...</p>
                 </div>
               ) : (
                 <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200">
